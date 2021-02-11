@@ -1,0 +1,66 @@
+body {
+    width: 883px;
+}
+
+.image-receita {
+    width: 883px;
+    height: 374px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 89px;
+    line-height: 79px;
+    color: #FFB300;    
+}
+
+h2 {
+    color: #FFB300;  
+    font-size: 34px;
+    font-weight: bold;    
+}
+
+h3 {
+    color: black;  
+    font-size: 21px;
+    font-weight: bold;
+    text-align: right;
+}
+
+p {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.61;
+    color:black;    
+}
+
+.section{
+    margin-bottom: 34px;
+}
+
+.section2{
+    margin-top: 34px;
+}
+
+ul > li {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 21px * 1.61;
+}
+
+ul > li {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 21px * 1.61;
+}
+
+iframe {
+    width: 883px;
+    height: 497px;
+}
+
+p > a {
+    font-size: 21px;
+    font-weight: bold;
+    color: #0037B3;
+}
